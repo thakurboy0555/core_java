@@ -8,7 +8,7 @@ public class A {
 		 if (i>30) {
 			 System.out.println("good");
 		 }else {
-			System.out.println("you are not good ");
+			System.out.println("you are not good.. ");
 		}
 		
 		 
